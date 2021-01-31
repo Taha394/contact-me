@@ -1,0 +1,47 @@
+
+.alert{
+    margin-bottom: 10px;
+}
+.container h2{
+    font-family: 'Raleway', sans-serif;
+    margin-top: 20px;
+    font-weight: 1000;
+    font-size: 40px;
+    letter-spacing: -1px;
+    color: #757575;
+}
+.call-form{
+    max-width: 450px;
+    margin: 20px auto;
+}
+.call-form .form-group{
+    position: relative;
+    margin-bottom: 0;
+}
+.call-form .asterisx{
+    float: right;
+    height: 0;
+    font-size: 25px;
+    color: red;
+    position: relative;
+    right: 10px;
+    top: -50px;
+    
+}
+
+.custom-alert{
+    padding: 10px;
+    display: none;
+}
+
+.call-form input,
+.call-form textarea{
+    margin-bottom: 15px;   
+}
+.call-form textarea{
+    height: 180px !important;
+}
+
+.call-form input{
+    padding-left: 25px;
+}
